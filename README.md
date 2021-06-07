@@ -5,6 +5,7 @@ Projeto de uma calculadora feito em React.
 
 
 Para rodar o projeto: <br />
+<br />
 **npm install** <br />
 **npm start**
 
