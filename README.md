@@ -3,6 +3,8 @@
 
 Projeto de uma calculadora feito em React. 
 
-Para rodar o projeto: 
-npm install \n
-npm start 
+<p>
+  Para rodar o projeto: <br />
+  npm install <br />
+  npm start
+</p>
