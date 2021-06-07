@@ -1,7 +1,7 @@
-# Calculadora 
+# Calculadora em React
 
 
-Projeto de uma calculadora feito em React. 
+Projeto de uma calculadora feita em React. 
 
 
 Para rodar o projeto: <br />
